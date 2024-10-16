@@ -2,7 +2,7 @@ CREATE DATABASE herois;
 
 USE herois;
 
-CREATE TABLE super_herois (
+CREATE TABLE super_heroi (
 	id BIGINT PRIMARY KEY,
     nome VARCHAR(255),
     apelido VARCHAR(255),
