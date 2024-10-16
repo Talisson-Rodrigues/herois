@@ -8,6 +8,6 @@ CREATE TABLE super_herois (
     apelido VARCHAR(255),
     superPoder VARCHAR(255),
     fraqueza VARCHAR(255),
-    historiaDeOrigem TEXT,
+    historiaOrigem TEXT,
     primeiraAparicao DATE
 );
